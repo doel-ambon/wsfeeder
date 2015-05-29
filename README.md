@@ -5,5 +5,5 @@
 * Pastikan folder upload dalam keadaan bisa ditulis (writeable).
 
 **Cara Installasi:**
-* **Menggunakan webserver Sendiri:** *Extract file hasil download dan tempatkan di folder utama webserver. dan jalankan via browser.*
-* **Menggunakan webserver Feeder:** *Extract file hasil download dan tempatkan di folder C:\Program Files\PDDIKTI\dataweb. Untuk menjalankannya ketikkan alamat [http://localhost:nomor_port/nama_folder_hasil_extract](http://localhost:nomor_port/nama_folder_hasil_extract)*
+* **Menggunakan webserver Sendiri:** *Extract file hasil download dan tempatkan di folder utama webserver kemudian jalankan via browser dengan mengetikkan [http://localhost/nama_folder_hasil_extract](http://localhost/nama_folder_hasil_extract)*
+* **Menggunakan webserver Feeder:** *Extract file hasil download dan tempatkan di folder C:\Program Files\PDDIKTI\dataweb. Untuk menjalankannya ketikkan alamat [http://localhost:nomor_port_feeder/nama_folder_hasil_extract](http://localhost:nomor_port_feeder/nama_folder_hasil_extract)*
